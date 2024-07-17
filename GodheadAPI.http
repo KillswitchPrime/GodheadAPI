@@ -1,0 +1,6 @@
+@GodheadAPI_HostAddress = http://localhost:5205
+
+GET {{GodheadAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
